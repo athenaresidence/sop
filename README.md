@@ -1,6 +1,6 @@
 # Tata Pamong Pengelolaan Komplek Athena
 
-Fasilitas Umum(Fasum) terdiri dari:  RTH, Jalan, PJU, Tiang, POS, Infrastruktur di dalamnya.
+Fasilitas Umum(Fasum) terdiri dari:  RTH, Jalan, PJU, Tiang, Bangunan Gazebo, POS satpam, termasuk infrastruktur di dalamnya(CCTV, barrier gate dll).
 
 RTH tidak untuk diperjualbelikan dahulu, demi kemaslahatan bersama
 
