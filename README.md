@@ -7,7 +7,7 @@ RTH tidak untuk diperjualbelikan, demi kemaslahatan bersama.
 ## Serah Terima Developer
 
 Persiapan serah terima developer:
-1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer
+1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer(1 minggu setelah BAST).
 2. Merekrut kembali personel untuk kepentingan komplek yang dikelola warga langsung, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.
 3. IPL dan sampah akan disatukan
 4. Kas warga ada untuk maintenance fasum
