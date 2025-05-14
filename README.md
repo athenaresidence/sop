@@ -38,4 +38,17 @@ IPL terdiri dari:
 
 Total IPL sebelum biaya perawatan sebesar 190rb diluar kas perawatan Fasum.
 
+PENGELUARAN SEBELUM SERAH TERIMA:
+1. SATPAM 4 x 2.000.000 ‎ = 8.000.000 
+2. TAMAN 2.500.000
+3. SAMPAH 2.500.000
+
+TOTAL: 13.000.000
+
+IPL 180.000 (Plus sampah) x 50 = 9.000.000
+
+Developer menanggung sisa 4.000.000 setiap bulannya
+
+Pembahasan teknis pengaturan tukang2 dr pihak developer karena proses pembangunan developer belum selesai
+
 Hasil musyawarah yang disepakati akan dikirimkan ke rumah warga masing-masing, untuk dijalankan bersama.
