@@ -1,22 +1,28 @@
 # Tata Pamong Pengelolaan Komplek Athena
 
+Fasilitas Umum(Fasum) terdiri dari:  RTH, Jalan, PJU, Tiang, POS, Infrastruktur di dalamnya.
+
+RTH tidak untuk diperjualbelikan dahulu, demi kemaslahatan bersama
+
 ## Serah Terima Developer
 
 Persiapan serah terima developer:
 1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer
-2. Merekrut kembali personel untuk kepentingan komplek, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut.
+2. Merekrut kembali personel untuk kepentingan komplek, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.
 3. IPL dan sampah akan disatukan
 4. Kas warga ada untuk maintenance fasum
 5. Penentuan koordinator warga
+6. Jadwal sampah tidak menunggu truk, tapi kita atur sendiri.
+7. Hal-hal yang disepakati menjadi aturan Komplek
 
-Hal-hal yang disepakati menjadi aturan Komplek
-
-IPL Warga
-
-Warga
-
-Fasum Milik warga athena termasuk RTH, Jalan, PJU, Tiang, POS, Infrastruktur di dalamnya.
-RTH tidak untuk diperjualbelikan dahulu, demi kemaslahatan bersama.
+IPL eksisting 130(IPL Dev)+50ribu(sampah)
+IPL terdiri dari:
+1. Security
+2. Sampah
+3. Taman
+4. Plus 10 ribu uang suka duka
+5. Plus ... biaya perawatan fasum
+.
 
 ## SOP Satpam, Taman dan Kebersihan
 
