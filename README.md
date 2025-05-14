@@ -1,4 +1,4 @@
-# Standar Operasional Prosedur Komplek
+# Tata Pamong Pengelolaan Komplek Athena
 
 Hal-hal yang disepakati menjadi aturan Komplek
 
