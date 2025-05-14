@@ -6,7 +6,8 @@ IPL Warga
 
 Warga
 
-Fasum Milik warga athena
+Fasum Milik warga athena termasuk RTH, Jalan, PJU, Tiang, POS, Infrastruktur di dalamnya.
+RTH tidak untuk diperjualbelikan dahulu, demi kemaslahatan bersama.
 
 ## SOP Satpam, Taman dan Kebersihan
 
