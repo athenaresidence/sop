@@ -27,13 +27,6 @@ Total IPL sebelum biaya perawatan sebesar 190rb diluar kas perawatan Fasum.
 
 Hasil musyawarah yang disepakati akan dikirimkan ke rumah warga masing-masing, untuk dijalankan bersama.
 
-# Pengembangan pengelolaan komplek selanjutnya
+## Pengurusan pengelolaan komplek selanjutnya
 
-## SOP Satpam, Taman dan Kebersihan
-
-Pembuatan Standar SOP satpam tentang perawatan barrier gate
-
-## Ducting Kabel dan Tiang
-
-Demi keindahan lingkungan komplek kita. Tahap 1 kita turunkan kabel internet dulu, karena kabel listrik terlalu mahal.
-Untuk kabel listrik jasa umumnya 1,5jt/m. Untuk kabel internet bisa kita buat solusi mandiri. Menurunkan ke gorong-gorong sendiri oleh warga. jadi biaya bisa ditekan.
+Pembubaran paguyuban warga athena masa bakti sebelumnya, dan diadakan pemilihan kordinator warga selanjutnya termasuk perangkat pembantu di dalamnya.
