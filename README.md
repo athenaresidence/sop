@@ -1,4 +1,4 @@
-# Tata Pamong Pengelolaan Komplek Athena
+# Draft Tata Pamong Pengelolaan Komplek Athena
 
 Fasilitas Umum(Fasum) terdiri dari:  RTH, Jalan, PJU, Tiang, Bangunan Gazebo, POS satpam, termasuk infrastruktur di dalamnya(CCTV, barrier gate dll).
 
@@ -11,7 +11,7 @@ RTH tidak untuk diperjualbelikan, demi kemaslahatan bersama. Untuk kepentingan:
 
 Persiapan serah terima developer:
 1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer(1 minggu setelah BAST).
-2. Merekrut kembali personel untuk kepentingan komplek yang dikelola warga langsung, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.
+2. Merekrut kembali personel untuk kepentingan komplek yang dikelola warga langsung, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.(Usulan pa berly 250rb/bulan jika ada 7 ruko maka hanya mendapat 1,75jt per bulan untuk kontribusi ke gaji satpam)
 3. Pembubaran Paguyuban sebelumnya dan mekanisme pembentukan koordinator langsung ditunjuk warga Athena Residence
 
 Persiapan kepengurusan warga:
@@ -20,6 +20,13 @@ Persiapan kepengurusan warga:
 3. Kas warga ada untuk maintenance fasum
 4. Jadwal sampah tidak menunggu truk, tapi kita atur sendiri
 5. Hal-hal yang disepakati menjadi tata pamong Komplek dan personel yang ditempatkan di komplek
+
+Calon kandidat kordinator warga periode 2025-2026:
+1. Pa Berli D5
+2. Pa Dadang D2
+3. Pa Nainggolan F4
+4. Pa Dhani F5
+5. Pa Melki B4
 
 IPL eksisting 130(IPL Dev)+50ribu(sampah)
 IPL terdiri dari:
