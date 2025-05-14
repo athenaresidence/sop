@@ -25,7 +25,7 @@ IPL terdiri dari:
 
 Total IPL sebelum biaya perawatan sebesar 190rb diluar kas perawatan Fasum.
 
-Maklumat yang disepakati akan dikirimkan ke rumah warga masing-masing.
+Hasil musyawarah yang disepakati akan dikirimkan ke rumah warga masing-masing, untuk dijalankan bersama.
 
 # Pengembangan pengelolaan komplek selanjutnya
 
