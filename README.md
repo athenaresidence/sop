@@ -1,5 +1,14 @@
 # Tata Pamong Pengelolaan Komplek Athena
 
+## Serah Terima Developer
+
+Persiapan serah terima developer:
+1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer
+2. Merekrut kembali personel untuk kepentingan komplek, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut.
+3. IPL dan sampah akan disatukan
+4. Kas warga ada untuk maintenance fasum
+5. Penentuan koordinator warga
+
 Hal-hal yang disepakati menjadi aturan Komplek
 
 IPL Warga
