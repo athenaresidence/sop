@@ -2,13 +2,13 @@
 
 Fasilitas Umum(Fasum) terdiri dari:  RTH, Jalan, PJU, Tiang, Bangunan Gazebo, POS satpam, termasuk infrastruktur di dalamnya(CCTV, barrier gate dll).
 
-RTH tidak untuk diperjualbelikan dahulu, demi kemaslahatan bersama
+RTH tidak untuk diperjualbelikan, demi kemaslahatan bersama.
 
 ## Serah Terima Developer
 
 Persiapan serah terima developer:
 1. Mengembalikan / Melepas kembali personel yang ditempatkan oleh developer kembali ke developer
-2. Merekrut kembali personel untuk kepentingan komplek, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.
+2. Merekrut kembali personel untuk kepentingan komplek yang dikelola warga langsung, saat ini hanya butuh 2 orang dengan pertimbangan fokus di kerja malam. Kita siapkan SOP untuk security yang akan kita rekrut. Penambahan personil setelah ruko jadi. Untuk IPL ruko 500ribu/bulan.
 3. IPL dan sampah akan disatukan
 4. Kas warga ada untuk maintenance fasum
 5. Penentuan koordinator warga
@@ -22,12 +22,16 @@ IPL terdiri dari:
 3. Taman
 4. Plus 10 ribu uang suka duka
 5. Plus ... biaya perawatan fasum
-.
+
+Total IPL sebelum biaya perawatan sebesar 190rb diluar kas perawatan Fasum.
+
+Maklumat yang disepakati akan dikirimkan ke rumah warga masing-masing.
+
+# Pengembangan pengelolaan komplek selanjutnya
 
 ## SOP Satpam, Taman dan Kebersihan
 
 Pembuatan Standar SOP satpam tentang perawatan barrier gate
-
 
 ## Ducting Kabel dan Tiang
 
