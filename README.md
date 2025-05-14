@@ -12,8 +12,8 @@ Persiapan serah terima developer:
 3. IPL dan sampah akan disatukan
 4. Kas warga ada untuk maintenance fasum
 5. Penentuan koordinator warga
-6. Jadwal sampah tidak menunggu truk, tapi kita atur sendiri.
-7. Hal-hal yang disepakati menjadi aturan Komplek
+6. Jadwal sampah tidak menunggu truk, tapi kita atur sendiri
+7. Hal-hal yang disepakati menjadi tata pamong Komplek dan personel yang ditempatkan di komplek
 
 IPL eksisting 130(IPL Dev)+50ribu(sampah)
 IPL terdiri dari:
